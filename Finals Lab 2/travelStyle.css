@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(171, 233, 159);
+    text-align: center;
+}
+
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#home {
+    line-height: 1.2;
+    border: 2px solid rgba(255, 0, 0, 0.411);
+}
+
+#attractions {
+    line-height: 1.2;
+    border: 2px solid rgba(71, 9, 9, 0.411);
+}
+
+#food {
+    line-height: 1.2;
+    border: 2px solid rgba(14, 155, 38, 0.411);
+}
+
+#contact {
+    line-height: 1.2;
+    border: 2px solid rgba(93, 84, 219, 0.411);
+}
+
+footer {
+    background-color: rgb(206, 66, 66);
+}
+
+header {
+    background-color: rgb(108, 165, 106);
+}
